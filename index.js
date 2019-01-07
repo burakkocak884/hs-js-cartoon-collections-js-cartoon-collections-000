@@ -21,7 +21,7 @@ function findTheCheese (foods) {
 foods = ["apple", "banana", "brie","gouda"]
 findTheCheese(foods)
 function wordsWithB(words){
-words.forAll(function(word){
+words.all(function(word){
   word[0] == "b"
 } )
 return words
