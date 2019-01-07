@@ -12,11 +12,11 @@ function findTheCheese (foods) {
     return foods[0]
   
   foods.find
-  var found = foods.find(function((food))
-  return food
+  var found = foods.find(function(food){
+  return food == "cheddar"
   
-  
+  }  )
   
 }
 foods = ["apple", "banana", "cheddar"]
-findTheCheese(foods).
+findTheCheese(found)
