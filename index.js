@@ -12,7 +12,8 @@ function findTheCheese (foods) {
     return foods[0]
   
   foods.find
-  var found = foods.find(findTheCheese())
+  var found = foods.find(function((food))
+  return food
   
   
   
