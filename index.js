@@ -15,4 +15,4 @@ function findTheCheese (foods) {
   
 }
 foods = ["apple", "banana", "cheddar"]
-findTheCheese(foods)
+findTheCheese(foods).
