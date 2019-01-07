@@ -13,7 +13,7 @@ function findTheCheese (foods) {
   
   
   var found = foods.find(function(food){
-  return food == "cheddar"
+  return food == "cheddar" || food =="brie"
   
   }  )
  return found
