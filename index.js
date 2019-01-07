@@ -27,4 +27,6 @@ words.forEach(function(word){
 return words
  
 }
+
 words = ["james","sally","bob","bicyle"]
+wordsWithB(words)
