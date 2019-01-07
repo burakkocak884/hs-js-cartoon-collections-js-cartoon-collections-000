@@ -18,5 +18,5 @@ function findTheCheese (foods) {
   }  )
  return found
 }
-foods = ["apple", "banana", "brie"]
+foods = ["apple", "banana", "brie","gouda"]
 findTheCheese(foods)
