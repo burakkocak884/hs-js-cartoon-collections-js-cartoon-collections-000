@@ -10,6 +10,7 @@ function longPlaneteerCalls(words) {
 function findTheCheese (foods) {
   cheeses =[ "gouda", "cheddar", "brie"]
     return foods[0]
+  foods.find
   
   
   
