@@ -20,3 +20,11 @@ function findTheCheese (foods) {
 }
 foods = ["apple", "banana", "brie","gouda"]
 findTheCheese(foods)
+function wordsWithB(words){
+words.forEach(function(word){
+  word[0] == "b"
+} )
+return words
+ 
+}
+words = ["james","sally","bob","bicyle"]
