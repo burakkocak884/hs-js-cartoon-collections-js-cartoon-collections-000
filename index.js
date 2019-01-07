@@ -24,7 +24,7 @@ function wordsWithB(words){
 words.filter(function(word){
   word[0] == "b"
 } )
-return words
+return word
  
 }
 
