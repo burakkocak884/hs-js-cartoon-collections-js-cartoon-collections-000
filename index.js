@@ -21,8 +21,9 @@ function findTheCheese (foods) {
 foods = ["apple", "banana", "brie","gouda"]
 findTheCheese(foods)
 function wordsWithB(words){
+
 words.filter(function(word){
-  return word[0] == "b"
+ 
   
 } )
 return words
