@@ -16,7 +16,7 @@ function findTheCheese (foods) {
   return food == "cheddar"
   
   }  )
-  
+ return found
 }
 foods = ["apple", "banana", "cheddar"]
-findTheCheese(found)
+findTheCheese(foods)
