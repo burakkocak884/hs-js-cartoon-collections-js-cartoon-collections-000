@@ -11,7 +11,7 @@ function findTheCheese (foods) {
   cheeses =[ "gouda", "cheddar", "brie"]
   
   
-  foods.find
+  
   var found = foods.find(function(food){
   return food == "cheddar"
   
